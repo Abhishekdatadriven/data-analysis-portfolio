@@ -61,13 +61,13 @@ Traditional sales dashboards emphasize revenue growth, often ignoring margin det
 ---
 
 ## 📁 Project Structure
-''discount-trap-mysql/
+```discount-trap-mysql/
 ├── data/
 ├── sql/
 │ └── analysis.sql
 ├── insights/
 │ └── findings.md
-└── README.md'''
+└── README.md```
 
 
 ---
