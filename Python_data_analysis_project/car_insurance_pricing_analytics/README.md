@@ -15,7 +15,7 @@ This project analyzes how pricing discounts affect premium deviation, profitabil
 ---
 
 ## 🗂 Project Structure
-python_data_analytics_project/
+```python_data_analytics_project/
 │
 ├── car_insurance_pricing_project/
 │ ├── data/
@@ -31,7 +31,7 @@ python_data_analytics_project/
 │ │
 │ ├── findings.md
 │ ├── README.md
-│ └── requirements.txt
+│ └── requirements.txt```
 
 
 ---
