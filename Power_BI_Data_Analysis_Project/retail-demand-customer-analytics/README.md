@@ -22,7 +22,7 @@ The objective is to demonstrate an **end-to-end data analytics workflow**:
 ---
 
 ## 📁 Project Structure
-Retail-Demand-Customer-Analytics/
+```Retail-Demand-Customer-Analytics/
 │
 ├── data/
 │ ├── raw/
@@ -60,7 +60,7 @@ Retail-Demand-Customer-Analytics/
 │ └── time_analysis.png
 │
 ├── README.md
-└── findings.md
+└── findings.md```
 
 
 
