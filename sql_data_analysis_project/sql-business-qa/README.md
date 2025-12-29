@@ -67,7 +67,7 @@ The data volume is intentionally large to resemble real business databases.
 ---
 
 ## 📁 Project Structure
-sql-business-qa/
+```sql-business-qa/
 │
 ├── data/
 │   ├── customers_01.csv
@@ -85,4 +85,4 @@ sql-business-qa/
 ├── insights/
 │   └── findings.md
 │
-└── README.md
+└── README.md```
