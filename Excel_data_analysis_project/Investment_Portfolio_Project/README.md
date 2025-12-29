@@ -18,7 +18,7 @@ The project follows a structured financial analytics workflow commonly used in *
 ---
 
 ## 🗂️ Project Structure
-Investment_Portfolio_Project/
+```Investment_Portfolio_Project/
 │
 ├── raw_data/
 │   ├── TCS_NS_Monthly_2020_2024.csv
@@ -36,7 +36,7 @@ Investment_Portfolio_Project/
 │
 ├── findings.md
 │
-└── README.md
+└── README.md```
 
 
 
