@@ -19,7 +19,7 @@ The project is implemented fully in **Microsoft Excel**, following a structured,
 ---
 
 ## 🗂️ Project Structure
-Excel_Data_Analysis_Projects/
+```Excel_Data_Analysis_Projects/
 │
 ├── Football-Performance-Analytics/
 │ ├── README.md
@@ -30,7 +30,7 @@ Excel_Data_Analysis_Projects/
 │ │ └── processed/
 │ │ └── sports_analytics_Main_file.xlsx
 │ └── analysis/
-│ └── sports_analytics_Main_file.xlsx
+│ └── sports_analytics_Main_file.xlsx```
     
 ---
 
