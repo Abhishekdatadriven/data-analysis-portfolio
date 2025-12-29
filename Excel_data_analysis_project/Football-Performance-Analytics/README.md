@@ -19,24 +19,18 @@ The project is implemented fully in **Microsoft Excel**, following a structured,
 ---
 
 ## 🗂️ Project Structure
-📁 Excel_Data_Analysis_Projects
+Excel_Data_Analysis_Projects/
 │
-└── 📁 Football-Performance-Analytics
-    │
-    ├── 📄 README.md
-    ├── 📄 findings.md
-    │
-    ├── 📁 data
-    │   │
-    │   ├── 📁 raw
-    │   │   └── 📄 E0.csv
-    │   │
-    │   └── 📁 processed
-    │       └── 📄 sports_analytics_Main_file.xlsx
-    │
-    ├── 📁 analysis
-    │   └── 📄 sports_analytics_Main_file.xlsx
-    │
+├── Football-Performance-Analytics/
+│ ├── README.md
+│ ├── findings.md
+│ ├── data/
+│ │ ├── raw/
+│ │ │ └── E0.csv
+│ │ └── processed/
+│ │ └── sports_analytics_Main_file.xlsx
+│ └── analysis/
+│ └── sports_analytics_Main_file.xlsx
     
 ---
 
