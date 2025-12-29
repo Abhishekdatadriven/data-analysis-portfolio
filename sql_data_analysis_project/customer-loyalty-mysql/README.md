@@ -86,7 +86,7 @@ Customer segments were intentionally excluded from the database to avoid data le
 
 
 📁 Project Structure
-customer-loyalty-mysql/
+```customer-loyalty-mysql/
 │── data_generation/
 │   └── generate_data.py
 │── data/
@@ -100,7 +100,7 @@ customer-loyalty-mysql/
 │   └── analysis.sql
 │── insights/
 │   └── findings.md
-│── README.md
+│── README.md```
 
 
 🚀 Why This Project Stands Out
