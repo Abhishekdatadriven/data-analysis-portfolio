@@ -50,7 +50,7 @@ These flags are combined into a composite risk score and classified into:
 ---
 
 ## Project Structure
-credit-risk-sql/
+```credit-risk-sql/
 │── data/
 │ └── credit_default.csv
 │── sql/
@@ -61,7 +61,7 @@ credit-risk-sql/
 │ └── analysis.sql
 │── insights/
 │ └── findings.md
-│── README.md
+│── README.md```
 
 ---
 
