@@ -1,0 +1,5 @@
+department,dept_type,risk_level
+ER,Emergency,High
+ICU,Critical Care,High
+OPD,Outpatient,Low
+SURGERY,Inpatient,Medium
