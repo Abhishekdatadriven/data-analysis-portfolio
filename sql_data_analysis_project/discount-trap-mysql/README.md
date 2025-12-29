@@ -61,3 +61,26 @@ Traditional sales dashboards emphasize revenue growth, often ignoring margin det
 ---
 
 ## 📁 Project Structure
+''discount-trap-mysql/
+├── data/
+├── sql/
+│ └── analysis.sql
+├── insights/
+│ └── findings.md
+└── README.md'''
+
+
+---
+
+## 🚀 Why This Project Matters
+This project demonstrates the ability to:
+- Think beyond revenue metrics
+- Translate raw data into business decisions
+- Identify hidden commercial risks
+- Apply SQL to real-world profitability problems
+
+---
+
+## 📌 Author
+**Abhishek Anandkar**
+
