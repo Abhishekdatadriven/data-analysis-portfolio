@@ -26,7 +26,7 @@ The project follows a **structured, end-to-end analytical workflow** suitable fo
 ---
 
 ## 🗂 Project Structure
-demand_supply_mismatch_project/
+```demand_supply_mismatch_project/
 │
 ├── data/
 │   ├── raw/
@@ -43,7 +43,7 @@ demand_supply_mismatch_project/
 │
 ├── README.md
 ├── findings.md
-└── requirements.txt
+└── requirements.txt```
 
 
 
