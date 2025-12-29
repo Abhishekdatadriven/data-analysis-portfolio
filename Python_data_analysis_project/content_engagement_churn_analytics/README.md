@@ -20,7 +20,7 @@ The project is structured end-to-end like a real industry analytics workflow.
 ---
 
 ## 🗂️ Project Structure
-content_engagement_churn_analytics/
+```content_engagement_churn_analytics/
 │
 ├── data/
 │ ├── raw/
@@ -46,7 +46,7 @@ content_engagement_churn_analytics/
 ├── findings.md
 ├── requirements.txt
 ├── .gitignore
-└── README.md
+└── README.md```
 
 
 ---
