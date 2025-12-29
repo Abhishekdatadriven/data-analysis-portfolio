@@ -112,7 +112,7 @@ GitHub	        Project version control
 
 
 📁 Project Structure
-healthcare-operations-dashboard/
+```healthcare-operations-dashboard/
 │
 ├── data/
 │   ├── raw/
@@ -134,7 +134,7 @@ healthcare-operations-dashboard/
 │   ├── bed_occupancy.png
 │
 ├── findings.md
-├── README.md
+├── README.md```
 
 
 
