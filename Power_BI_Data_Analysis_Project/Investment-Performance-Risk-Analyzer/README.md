@@ -50,7 +50,7 @@ This design improves performance, scalability, and time-based analysis.
 - Benchmark comparison provides meaningful performance context.
 
 ## 📁 Project Structure
-Investment-Performance-Risk-Analyzer/
+```Investment-Performance-Risk-Analyzer/
 │
 ├── 📁 data/
 │   ├── 📁 raw/
@@ -79,7 +79,7 @@ Investment-Performance-Risk-Analyzer/
 │   └── compound_annual_growth_review.png
 │
 ├── 📄 README.md
-└── 📄 findings.md
+└── 📄 findings.md```
 
 ## 📌 Learning Outcomes
 - Built end-to-end BI solution
