@@ -70,7 +70,7 @@ The project follows an **end-to-end data analytics workflow**:
 ---
 
 ## 📂 Project Folder Structure
-OTT-Streaming-Analytics/
+```OTT-Streaming-Analytics/
 │
 ├── data/
 │   ├── raw/
@@ -107,7 +107,7 @@ OTT-Streaming-Analytics/
 │   
 │
 ├── findings.md
-└── README.md
+└── README.md```
 
 
 
